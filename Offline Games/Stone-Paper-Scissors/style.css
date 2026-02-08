@@ -1,0 +1,75 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+body{
+    background-color: #f5dd43;
+}
+
+h1{
+    background-color: #081b31;
+    color: white;
+    font-size: 50px;
+    height: 5rem;
+    line-height:5rem;
+}
+
+
+.option{
+    height: 215px;
+    width: 215px;
+     border-radius: 50%;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+}
+
+.option:hover{
+    cursor: pointer;
+    background-color: #081b31;
+}
+
+img{
+    height: 200px;
+    width: 200px;
+    object-fit: cover;/* if the image look contracted */
+    border-radius: 50%;
+}
+.options{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 6rem;
+    margin-top: 5rem;
+}
+
+
+.score-page{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+    margin-top: 3rem;
+    gap: 5rem;
+
+}
+
+#user-score,#comp-score{
+    font-size: 4rem;
+}
+
+.msg-box{
+    margin-top: 5rem;
+}
+
+#msg{
+    background-color:#081b31; 
+    color: white;
+    height: 5rem;
+    font-size: 2rem;
+    display: inline; /* jitna context h utna hi highlight hoga*/
+    padding: 1rem;
+    border-radius: 1rem;
+}
