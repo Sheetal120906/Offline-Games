@@ -11,12 +11,12 @@ https://miniofflinegame.netlify.app
 -  Stone Paper Scissors  
 -  Tic Tac Toe  
 ---
-## 🛠️ Tech Stack
+##  Tech Stack
 - HTML5  
 - CSS3  
 - JavaScript (Vanilla)
 ---
-## 📂 Project Structure
+##  Project Structure
 Offline Games/
 │
 ├── index.html
@@ -32,7 +32,7 @@ Offline Games/
 └── Tic-Tac-Toe/
 └── index.html
 
-## 🚀 Deployment
+## Deployment
 
 The project is deployed using **Netlify**.
 
